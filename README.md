@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LeanCollector
+- 👀 I’m interested in proggraming
+- 🌱 I’m currently learning JS
